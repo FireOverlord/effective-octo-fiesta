@@ -1,0 +1,27 @@
+body{
+    height:100%;
+    width:100%;
+}
+#HT3{
+    width: 100%;
+    border-radius: 0;
+    border: 10px solid rgb(0, 255, 64);
+    color: black;
+    font-weight: bolder;
+    font-style: italic;
+}
+.div_speed{
+    float:left;
+
+}
+.div_volum{
+    float: right;
+    
+}
+img{
+    width:120px;
+    height: 120px;
+}
+canvas{
+    border: 10px dashed linear-gradient( rgb(0, 0, 0) 50%,rgb(0, 255, 170) 50%) ;
+}
